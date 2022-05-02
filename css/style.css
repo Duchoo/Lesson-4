@@ -1,12 +1,18 @@
 header{
     background-color: #0020F4;
     width: 1920px;
+    height: 388px;
+    opacity: 100%;
 }
 a{
     text-decoration: none;
 }
 ul, ol{
     list-style-type: none;
+}
+section img{
+    width: ; x: 362;
+    height: ; y: 285px;
 }
 h2{
     text-align: center;
@@ -15,4 +21,15 @@ h2{
     opacity: 1;
     font-size: 28px;
 }
+p{
+    font-size: 16px;
+    color: #171717;
+    text-align: left;
+}
+h3{
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #0A22F4;
+    border-radius: 28px;
+}]
 
