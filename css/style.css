@@ -1,5 +1,18 @@
 header{
-    background-color: blue;
-    width: 115px;
-
+    background-color: #0020F4;
+    width: 1920px;
 }
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style-type: none;
+}
+h2{
+    text-align: center;
+    color: #171717;
+    text-transform: uppercase;
+    opacity: 1;
+    font-size: 28px;
+}
+
